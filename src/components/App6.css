@@ -1,0 +1,8 @@
+.App-row{
+    display: flex;
+
+}
+.App-Box{
+    margin:5px;
+    padding:10px;
+}
